@@ -1,0 +1,4 @@
+# Python関連
+__pycache__/
+*.pyc
+.pytest_cache/
